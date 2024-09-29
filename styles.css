@@ -73,3 +73,20 @@ li {
 li:last-child {
     border-bottom: none;
 }
+
+/* Button Styles */
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block;
+    margin: 20px auto;
+}
+
+button:hover {
+    background-color: #c0392b;
+}
